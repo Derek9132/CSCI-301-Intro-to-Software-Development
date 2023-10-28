@@ -1,0 +1,3 @@
+randUser2	4	easy
+kwon	9	medium
+N\A	N\A	hard
