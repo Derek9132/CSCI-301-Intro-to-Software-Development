@@ -1,0 +1,3 @@
+kwon	5	easy
+Quark	12	medium
+N\A	N\A	hard
