@@ -5,3 +5,5 @@ Topics/focus in this class:
 -Object oriented programming in Java and Eclipse IDE
 -Debugging and testing in Java with JUnit
 -Software design processes: waterfall, agile
+-Java Swing and GUI 
+
